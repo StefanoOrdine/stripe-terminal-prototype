@@ -36,7 +36,7 @@ class CommonWorkflows extends React.Component {
               />
             )}
             <Text size={12} color="dark">
-              Charge amount
+              Account Id
             </Text>
             <TextInput
                 value={connectAccountId}
